@@ -1,6 +1,4 @@
-Based on the retrieved information, I will create a basic README structure for the repository `AdityaRAJHI/movies-scraper-site`.
 
-```plaintext
 # Movie Recommendations
 
 ## Description
